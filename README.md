@@ -234,7 +234,7 @@ application. The parameters related to test connectivity action are Client ID an
   - If using **Alert ID**, the connector makes an API call to fetch the alert details from Dataminr.
   - If using **Artifact ID**, the connector fetches the alert details from the already ingested data.
 
-## Known Issues
+## Known Behaviors
 
 > **Note:** The following issues occur only in the custom UI output when the get_alert_details action is executed with the Alert ID parameter and do not occur when using the Artifact ID parameter.
 
